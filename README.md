@@ -14,7 +14,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eP0chrUBoWv4uFVzSscM62Z6PaEUz4U2/view?usp=sharing)
 
-- ⚡ Fun fact **I hate Angular 😬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
