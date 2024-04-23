@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">Full-Stack web developer 💻</h3>
+<h3 align="center">Software engineer 💻</h3>
 
 <img width="100%" alt="coding" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ahmedjimmyx@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eP0chrUBoWv4uFVzSscM62Z6PaEUz4U2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PQpnUeyv6rFYzYlPf3AyG9JnXK7juC7f/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
