@@ -5,7 +5,7 @@
 
 
 <br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nextjs,angular,express,jquery,git,docker"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,react,nextjs,express,jquery,git"/></a></p>
 <br>
 
 <br>
