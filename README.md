@@ -11,5 +11,5 @@
 <br>
 <p align="center">Contact me: </p>
 
-<p align="center"><a href="https://linkedin.com/in/agamal1"><img src="https://skillicons.dev/icons?i=linkedin"/></a> <a href="mailto:ahmedjimmyx@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a></p>
+<p align="center"><a href="https://linkedin.com/in/agamal1"><img src="https://skillicons.dev/icons?i=linkedin"/></a> </p>
 <br>
